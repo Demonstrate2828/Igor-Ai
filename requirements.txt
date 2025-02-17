@@ -1,0 +1,1 @@
+pip install openai vosk pyaudio opencv-python scikit-learn cryptography psutil requests
